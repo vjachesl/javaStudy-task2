@@ -1,0 +1,36 @@
+/usr/lib/jvm/java-8-oracle/bin/java -Didea.launcher.port=7533 -Didea.launcher.bin.path=/opt/idea/idea-IU-141.713.2/bin -Dfile.encoding=UTF-8 -classpath /usr/lib/jvm/java-8-oracle/jre/lib/management-agent.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/deploy.jar:/usr/lib/jvm/java-8-oracle/jre/lib/plugin.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/javaws.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfxswt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar:/home/viacheslav/IdeaProjects/epam/out/production/epam:/opt/idea/idea-IU-141.713.2/lib/junit.jar:/opt/idea/idea-IU-141.713.2/lib/junit-4.11.jar:/opt/idea/idea-IU-141.713.2/lib/hamcrest-core-1.3.jar:/opt/idea/idea-IU-141.713.2/lib/hamcrest-library-1.3.jar:/opt/idea/idea-IU-141.713.2/lib/idea_rt.jar com.intellij.rt.execution.application.AppMain task2.Main
+=============================================================
+For 0 sentence:
+CONSTITUTION OF THE EMPIRE OF JAPAN, 1889 .
+-----------------------------
+{of=2, the=1, in=0, to=0, our=0}
+=============================================================
+For 1 sentence:
+Imperial Oath Sworn in the Sanctuary in the Imperial Palace(Tsuge-bumi) We, the Successor to the prosperous Throne of Our Predecessors, do humbly and solemnly swear to the Imperial Founder of Our House and to Our other Imperial Ancestors that, in pursuance of a great policy co-extensive with the Heavens and with the Earth, We shall maintain and secure from decline the ancient form of government .
+-----------------------------
+{the=8, of=4, in=3, to=3, our=3}
+=============================================================
+For 2 sentence:
+ In consideration of the progressive tendency of the course of human affairs and in parallel with the advance of civilization, We deem it expedient, in order to give clearness and distinctness to the instructions bequeathed by the Imperial Founder of Our House and by Our other Imperial Ancestors, to establish fundamental laws formulated into express provisions of law, so that, on the one hand, Our Imperial posterity may possess an express guide for the course they are to follow, and that, on the other, Our subjects shall thereby be enabled to enjoy a wider range of action in giving Us their support, and that the observance of Our laws shall continue to the remotest ages of time .
+-----------------------------
+{the=10, of=9, to=6, our=5, in=4}
+=============================================================
+For 3 sentence:
+ We will thereby to give greater firmness to the stability of Our country and to promote the welfare of all the people within the boundaries of Our dominions; and We now establish the Imperial House Law and the Constitution .
+-----------------------------
+{the=6, of=3, to=3, our=2, in=0}
+=============================================================
+For 4 sentence:
+ These Laws come to only an exposition of grand precepts for the conduct of the government, bequeathed by the Imperial Founder of Our House and by Our other Imperial Ancestors .
+-----------------------------
+{the=3, of=3, our=2, to=1, in=0}
+=============================================================
+For 5 sentence:
+ That we have been so fortunate in Our reign, in keeping with the tendency of the times, as to accomplish this work, We owe to the glorious Spirits of the Imperial Founder of Our House and of Our other Imperial Ancestors .
+-----------------------------
+{the=4, of=4, our=3, in=2, to=2}
+
+TOTAL RESULT=====================================================
+{the=32, of=25, to=15, our=15, in=9}
+
+Process finished with exit code 0
